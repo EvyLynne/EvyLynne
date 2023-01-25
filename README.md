@@ -6,7 +6,7 @@
 - :clock3: HTML and front end work
 - :clock4: C++ and other languages
 - :alien: My unusual skills: I like working with people, working on teams, and documentation and diagrams. 
-- 🌱 I’m currently learning about Power BI at my job.  In my spare time I just built a new computer with the hubby and I'm working on the cross compiler for the MC6809 microprocesser 
+- 🌱 I’m currently seeking my next job and keeping active in learning.  In my spare time I'm working on the cross compiler for the MC6809 microprocesser 
 - 💞️ I’m looking to collaborate on PBI, programming in almost any language, Machine Learning or anything else that happens to come along.  Reach out to me!
 - 📫 How to reach me: evelynlivant@gmail.com 
 
