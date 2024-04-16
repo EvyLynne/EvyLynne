@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EvyLynne
 - 👀 I’m interested in all things Data Science ... My experience is Data Management / Database Developer / Data Reporting.  My job title changes with each new company.  Now I'm an Associate Data Analyst.   
 - :memo: I also dabble in other computer related skills and techniques such as: 
-- :clock1: embedded systems 
+- :clock1: MS Fabric Certification 
 - :clock2: antique compiler  
 - :clock3: HTML and front end work
 - :clock4: C++ and other languages
